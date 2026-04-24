@@ -1,0 +1,1 @@
+# MinorTriads_StringSet1
